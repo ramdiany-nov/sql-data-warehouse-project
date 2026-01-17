@@ -1,10 +1,12 @@
 /*
 ================================================================================
+ Project    : SQL Data Warehouse
  File       : ddl_bronze.sql
  Purpose    : Create Bronze layer tables for the SQL Server Data Warehouse
  Author     : Ramdiany
  Platform   : Microsoft SQL Server
  Layer      : Bronze (Raw / Ingestion)
+ Repository : sql-data-warehouse-project
 
  Description:
    This script creates the Bronze layer tables used to land raw data from CRM and
