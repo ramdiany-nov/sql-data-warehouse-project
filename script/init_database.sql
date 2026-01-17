@@ -1,10 +1,12 @@
 /*==============================================================================
-  Project        : Enterprise Data Warehouse
-  Environment    : Microsoft SQL Server
-  Layering Model : Bronze / Silver / Gold (Medallion Architecture)
-  Author         : Ramdiany
-  Repository     : sql-data-warehouse-project
+  Project        : SQL Data Warehouse
+  File           : init_database.sql
   Purpose        : Initialise core database and schema structure for the DW stack
+  Author         : Ramdiany
+  Platform       : Microsoft SQL Server
+  Layering Model : Bronze / Silver / Gold (Medallion Architecture)
+  Repository     : sql-data-warehouse-project
+
 
   Description:
   - Creates the DataWarehouse database if it does not already exist.
@@ -16,7 +18,11 @@
   Notes:
   - This script is idempotent and safe to re-run.
   - Run with sysadmin or dbcreator privileges.
+
+  Change Log:
+    2026‑01‑17  Initial version
 ==============================================================================*/
+
 
 USE master;
 GO
