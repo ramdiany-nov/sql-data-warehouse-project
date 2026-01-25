@@ -1,6 +1,6 @@
 /*
 Project    : SQL Data Warehouse
-File       : bronze.load_bronze.sql
+File       : proc_load_bronze.sql
 Purpose    : Orchestrates full reload of the Bronze layer from raw CSV sources into SQL Server staging tables.
 Author     : Ramdiany
 Platform   : Microsoft SQL Server
