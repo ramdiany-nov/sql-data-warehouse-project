@@ -1,6 +1,6 @@
 /*
 Project    : SQL Data Warehouse
-File       : sp_load_silver.sql
+File       : proc_load_silver.sql
 Purpose    : Load and transform data from Bronze to Silver layer
 Author     : Ramdiany
 Platform   : Microsoft SQL Server
