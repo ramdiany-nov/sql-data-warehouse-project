@@ -88,7 +88,7 @@ Develop analytical SQL queries to generate insights related to:
 
 These outputs are designed to support business-level decision-making through clear and reliable metrics.
 
-Additional details can be found in `docs/requirements.md`.
+Additional details can be found in `documents/requirements.md`.
 
 ---
 
