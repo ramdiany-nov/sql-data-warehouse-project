@@ -1,6 +1,6 @@
 /*
 Project    : SQL Data Warehouse
-File       : test_silver.sql
+File       : qualiy_check_silver.sql
 Purpose    : Data quality validation for Silver layer tables
 Author     : Ramdiany
 Platform   : Microsoft SQL Server
