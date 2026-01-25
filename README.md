@@ -9,7 +9,7 @@ This project presents an end-to-end implementation of a modern data warehouse, c
 
 The solution is designed using the **Medallion Architecture**, consisting of **Bronze**, **Silver**, and **Gold** layers:
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](documents/data_architecture.png)
 
 ### Architecture Layers
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
